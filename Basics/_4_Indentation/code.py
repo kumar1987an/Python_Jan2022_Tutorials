@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 x = 45.78
 print(x * 7388)
 print("Python")
@@ -46,3 +47,5 @@ finally:
 # with context manager
 with open("log100.txt", "w") as file:
     file.write("Hello World")
+=======
+>>>>>>> origin/main
