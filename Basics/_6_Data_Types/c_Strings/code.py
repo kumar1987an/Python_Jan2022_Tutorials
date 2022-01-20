@@ -16,7 +16,7 @@ def string_formatting():
     print(s4)
     s5 = "gold is Au\nhydrogen is h2"
     print(s5)
-    s6 = r"gold is Au\nhydrogen is h2"
+    s6 = r"gold is Au\n hydrogen is h2"
     print("This is raw string: ", s6)
     s7 = ""
     print("Empty string with singe quote: ", s7)
