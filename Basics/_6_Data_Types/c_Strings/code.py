@@ -28,11 +28,12 @@ def string_formatting():
     print(s10)
     print()
     s11 = """first line
-    second line
+        second line
     third line"""
     print(s11)
 
 
+print(string_formatting())
 print(string_formatting.__doc__)
 print(__doc__)
 

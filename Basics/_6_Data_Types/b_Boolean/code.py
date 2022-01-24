@@ -4,13 +4,15 @@ print(x > y)
 print(x < y)
 print(x == y)
 print(x != y)
+print(x >= y)
+print(x <= y)
 print(x > y or x < y)
 print(x < y and x == y)
 print(x not in [1, 2, 3, 4, 7])
 print()
 # Truthiness
 
-print(f"bool('') = {bool('')}")
+print(f"bool(' ') = {bool(' ')}")
 print(f"bool('Python@123') = {bool('Python@123')}")
 
 print(f"bool([]) = {bool([])}")
